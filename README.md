@@ -1,12 +1,28 @@
-# React + Vite
+Project Title: Renuka's Resume using React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📌 Description
+This is a fully responsive personal portfolio website built using React.js to showcase my skills, projects, and experience as a frontend developer. The site features smooth scrolling, interactive UI components, and a clean layout. It serves as a central place for potential employers and collaborators to learn more about me and access my work.
 
-Currently, two official plugins are available:
+🚀 Features
+🔹 Built with React.js using modern hooks and functional components
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔹 Responsive design for mobile, tablet, and desktop devices
 
-## Expanding the ESLint configuration
+🔹 Smooth scroll navigation and animated transitions
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔹 Sections: About Me, Projects, Skills, Contact
+
+🔹 Contact form with validation
+
+🔹 Integrated with GitHub, LinkedIn, and other social links
+
+🔹 Hosted live with [Netlify/Vercel/GitHub Pages] (mention whichever you used)
+
+🛠 Tech Stack
+Frontend: React.js, HTML5, CSS3, JavaScript
+
+Styling: CSS Modules / Tailwind CSS / Styled Components (choose what you used)
+
+Version Control: Git and GitHub
+
+Deployment:  Netlify / GitHub Page
